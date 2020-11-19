@@ -1,0 +1,8 @@
+prefix=/mnt/hgfs/Work/Projects/RTAB/catkin_ws/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/mnt/hgfs/Work/Projects/RTAB/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

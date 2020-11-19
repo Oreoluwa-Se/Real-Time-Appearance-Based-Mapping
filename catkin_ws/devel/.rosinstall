@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/hgfs/Work/Projects/RTAB/catkin_ws/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/mnt/hgfs/Work/Projects/RTAB/catkin_ws/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
